@@ -12,11 +12,11 @@
 - 🌱 I’m deepening my knowledge in **Python**, **Machine Learning**, and **Artificial Intelligence**.
 - 👯 I recently led a community-driven project: **Smart & Integrated Waste Management System** (KKN).
 - 💬 Ask me about **Backend Architecture**, **SDLC**, **Agile**, or **AI Governance**.
-- 📫 How to reach me: [LinkedIn](#) *(Ganti dengan link LinkedIn kamu)*
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/m-zaenal-suryana-761598373/)** or via email.
 
 ### 🌐 Socials:
 <p align="left">
-  <a href="MASUKKAN_LINK_LINKEDIN_DISINI" target="_blank">
+  <a href="https://www.linkedin.com/in/m-zaenal-suryana-761598373/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:barayaofficial390@gmail.com">
