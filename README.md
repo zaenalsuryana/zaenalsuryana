@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B;I'm+M.+Zaenal+Suryana;Backend+Engineer;Data+Science+Enthusiast" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=2a0845,6441A5&height=250&section=header&text=HELLO%20WORLD&fontSize=65&fontColor=ffffff&fontAlignY=45&desc=WELCOME%20TO%20MY%20PROFILE&descAlignY=70&descSize=20" alt="Header Background" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6441A5&center=true&vCenter=true&width=500&lines=Hi!+I'm+M.+Zaenal+Suryana+%F0%9F%91%8B;Backend+Engineer;Data+Science+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -23,7 +27,7 @@
 - 🌱 I’m expanding my expertise in **Python**, **Data Science**, and **Machine Learning**.
 - ⚙️ Deeply interested in exploring **Software Development Lifecycles (SDLC)**, **Agile methodologies**, and optimal **Network Topologies**.
 - 💬 Ask me about **Backend Architecture**, **AI Governance**, or database design.
-- ⚡ **Fun fact:** When I'm not coding, you can probably find me enjoying the cool breeze of Bandung or diving deep into the expansive lore of fantasy novels!
+- ⚡ **Fun fact:** When I'm not coding, you can probably find me enjoying the cool breeze of Bandung or diving deep into the expansive lore and character power levels of fantasy novels!
 
 ---
 
@@ -46,4 +50,8 @@
 <br>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaenalsuryana&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6441A5,2a0845&height=100&section=footer" alt="Footer Background" width="100%" />
 </div>
