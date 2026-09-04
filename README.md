@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,20,30,40&height=220&section=header&text=HELLO%20WORLD!&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=M.%20Zaenal%20Suryana%20|%20Backend%20Engineer&descSize=16&descColor=f3f4f6" width="100%" />
 </div>
 
-<!-- KARTU INFORMASI UTAMA (WARNA CYAN TERANG) -->
+<!-- KARTU INFORMASI UTAMA -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=%3E+Building+scalable+backend+with+NestJS;%3E+Exploring+Python+%26+Data+Science;%3E+Turning+complex+logic+into+clean+code" alt="Typing SVG" />
 </div>
@@ -83,7 +83,7 @@
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.id/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
@@ -91,26 +91,16 @@
 
 ---
 
-### 🏆 GitHub Milestones & Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zaenalsuryana&theme=darcula&no-frame=true&no-bg=true&margin-w=10" alt="Trophies" />
-  </a>
-</div>
-
----
-
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaenalsuryana&show_icons=true&theme=darcula&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaenalsuryana&layout=compact&theme=darcula&hide_border=true&bg_color=0D1117&title_color=38BDF8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zaenalsuryana&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaenalsuryana&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=38BDF8" width="48%" />
 </div>
 
 <div align="center">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaenalsuryana&theme=darcula&hide_border=true&background=0D1117&stroke=38BDF8" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaenalsuryana&theme=vue-dark&hide_border=true&background=0D1117&stroke=38BDF8" width="98%" />
 </div>
 
 <!-- FOOTER COUNTER -->
