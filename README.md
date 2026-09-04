@@ -1,11 +1,11 @@
-<!-- BANNER UTAMA BERGAYA CYBER / TERMINAL -->
+<!-- BANNER UTAMA WARNA EMERALD / OCEAN TECH -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,15,30,45,60&height=220&section=header&text=HELLO%20WORLD!&fontSize=50&fontColor=8b5cf6&animation=fadeIn&desc=M.%20Zaenal%20Suryana%20|%20Backend%20Engineer&descSize=16&descColor=a78bfa" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,20,30,40&height=220&section=header&text=HELLO%20WORLD!&fontSize=50&fontColor=10B981&animation=fadeIn&desc=M.%20Zaenal%20Suryana%20|%20Backend%20Engineer&descSize=16&descColor=38BDF8" width="100%" />
 </div>
 
 <!-- KARTU INFORMASI UTAMA -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=%3E+Building+scalable+backend+with+NestJS;%3E+Exploring+Python+%26+Data+Science;%3E+Turning+complex+logic+into+clean+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=550&lines=%3E+Building+scalable+backend+with+NestJS;%3E+Exploring+Python+%26+Data+Science;%3E+Turning+complex+logic+into+clean+code" alt="Typing SVG" />
 </div>
 
 <br>
@@ -51,25 +51,42 @@
 ### 💻 Tech Stack & Ecosystem
 
 <div align="center">
-  <!-- Bahasa & Backend -->
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  
-  <br>
-  
-  <!-- Database & Tools -->
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
+
+  <!-- Baris 1: Languages & Core -->
+  <p><b>Languages & Core</b></p>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+
+  <br><br>
+
+  <!-- Baris 2: Frameworks & Backend -->
+  <p><b>Frameworks & Backend</b></p>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+
+  <br><br>
+
+  <!-- Baris 3: Databases & ORM -->
+  <p><b>Databases & ORM</b></p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
+
+  <br><br>
+
+  <!-- Baris 4: Tools & Workflow -->
+  <p><b>Tools & Workflow</b></p>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+
 </div>
 
 ---
@@ -78,7 +95,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zaenalsuryana&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=zaenalsuryana&theme=darcula&no-frame=true&no-bg=true&margin-w=10" alt="Trophies" />
   </a>
 </div>
 
@@ -87,17 +104,17 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaenalsuryana&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=38BDF8" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaenalsuryana&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8b5cf6" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zaenalsuryana&show_icons=true&theme=darcula&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=38BDF8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaenalsuryana&layout=compact&theme=darcula&hide_border=true&bg_color=0D1117&title_color=10B981" width="48%" />
 </div>
 
 <div align="center">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaenalsuryana&theme=radical&hide_border=true&background=0D1117&stroke=8b5cf6" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaenalsuryana&theme=darcula&hide_border=true&background=0D1117&stroke=10B981" width="98%" />
 </div>
 
 <!-- FOOTER COUNTER -->
 <div align="center">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=zaenalsuryana&label=Profile%20Visitors&color=8b5cf6&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=zaenalsuryana&label=Profile%20Visitors&color=10B981&style=flat-square" alt="Views" />
 </div>
