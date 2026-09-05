@@ -83,7 +83,7 @@
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.id/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
@@ -94,8 +94,8 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaenalsuryana&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaenalsuryana&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=38BDF8" width="48%" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=zaenalsuryana&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" width="48%" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zaenalsuryana&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=38BDF8" width="48%" />
 </div>
 
 <div align="center">
