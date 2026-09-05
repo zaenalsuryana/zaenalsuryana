@@ -50,43 +50,55 @@
 
 ### 💻 Tech Stack & Ecosystem
 
-<table align="center" width="100%" style="border: none;">
-  <tr style="border: none;">
-    <td width="50%" valign="top" align="center" style="border: none; padding: 10px;">
-      <p><b>⚡ Languages & Core</b></p>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<table align="center" width="100%" style="border-collapse: separate; border-spacing: 12px;">
+  <tr>
+    <!-- Card 1: Languages & Core -->
+    <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px;">
+      <h4 style="color: #38BDF8; margin: 0 0 15px 0; font-family: monospace;">⚡ Languages & Core</h4>
+      <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+      </div>
     </td>
-    <td width="50%" valign="top" align="center" style="border: none; padding: 10px;">
-      <p><b>⚙️ Frameworks & Backend</b></p>
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+
+    <!-- Card 2: Frameworks & Backend -->
+    <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px;">
+      <h4 style="color: #38BDF8; margin: 0 0 15px 0; font-family: monospace;">⚙️ Frameworks & Backend</h4>
+      <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+      </div>
     </td>
   </tr>
-  <tr style="border: none;">
-    <td width="50%" valign="top" align="center" style="border: none; padding: 10px;">
-      <p><b>🗄️ Databases & ORM</b></p>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-      <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
+  <tr>
+    <!-- Card 3: Databases & ORM -->
+    <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px;">
+      <h4 style="color: #38BDF8; margin: 0 0 15px 0; font-family: monospace;">🗄️ Databases & ORM</h4>
+      <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
+      </div>
     </td>
-    <td width="50%" valign="top" align="center" style="border: none; padding: 10px;">
-      <p><b>🛠️ Tools & Workflow</b></p>
-      <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-      <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+
+    <!-- Card 4: Tools & Workflow -->
+    <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px;">
+      <h4 style="color: #38BDF8; margin: 0 0 15px 0; font-family: monospace;">🛠️ Tools & Workflow</h4>
+      <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+        <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+        <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+        <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+      </div>
     </td>
   </tr>
 </table>
-
----
 
 ### 📊 GitHub Analytics
 
