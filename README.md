@@ -62,16 +62,16 @@
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
       </div>
     </td>
-
+    
     <!-- Card 2: Frameworks & Backend -->
-    <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px;">
+  <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px;">
       <h4 style="color: #38BDF8; margin: 0 0 15px 0; font-family: monospace;">⚙️ Frameworks & Backend</h4>
       <div style="display: flex; flex-wrap: wrap; gap: 8px;">
         <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
         <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
       </div>
-    </td>
+  </td>
   </tr>
   <tr>
     <!-- Card 3: Databases & ORM -->
@@ -84,9 +84,9 @@
         <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
       </div>
     </td>
-
+    
     <!-- Card 4: Tools & Workflow -->
-    <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px;">
+  <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px;">
       <h4 style="color: #38BDF8; margin: 0 0 15px 0; font-family: monospace;">🛠️ Tools & Workflow</h4>
       <div style="display: flex; flex-wrap: wrap; gap: 8px;">
         <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
@@ -96,7 +96,7 @@
         <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
       </div>
-    </td>
+  </td>
   </tr>
 </table>
 
