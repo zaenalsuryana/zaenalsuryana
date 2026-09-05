@@ -100,8 +100,6 @@
   </tr>
 </table>
 
----
-
 ### 📊 GitHub Analytics
 
 <div align="center">
