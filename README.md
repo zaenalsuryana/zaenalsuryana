@@ -52,7 +52,6 @@
 
 <table align="center" width="100%" style="border-collapse: separate; border-spacing: 12px;">
   <tr>
-    <!-- Card 1: Languages & Core -->
     <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px;">
       <h4 style="color: #38BDF8; margin: 0 0 15px 0; font-family: monospace;">⚡ Languages & Core</h4>
       <div style="display: flex; flex-wrap: wrap; gap: 8px;">
