@@ -100,20 +100,35 @@
 
 ### 🎓 Continuous Learning & Expertise
 
-<table width="100%" style="border: none;">
-  <tr>
-    <td width="50%" valign="top">
-      <b>🏆 Certifications & Courses</b><br>
-      • <i>Dicoding Indonesia:</i> Artificial Intelligence, Data Science, Machine Learning, Python, & SQL.<br>
-      • <i>ITPIKI:</i> AI Governance, Ethics & Security.<br>
-    </td>
-    <td width="50%" valign="top">
-      <b>🔬 Applied Experience</b><br>
-      • Backend Architecture & Database Design.<br>
-      • Network Topology & Infrastructure Configuration.<br>
-      • Agile & Software Development Lifecycle (SDLC).
-    </td>
-  </tr>
+<table align="center" width="100%" style="border-collapse: separate; border-spacing: 12px;">
+<tr>
+<td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px;">
+<h4 style="color: #38BDF8; margin: 0 0 15px 0; font-family: monospace;">🏆 Certifications & Courses</h4>
+<p style="margin: 0 0 12px 0; font-size: 14px;">
+<b style="color: #e6edf3;">🔹 Dicoding Indonesia</b><br>
+<span style="color: #8b949e;">Artificial Intelligence, Data Science, Machine Learning, Python, & SQL</span>
+</p>
+<p style="margin: 0; font-size: 14px;">
+<b style="color: #e6edf3;">🔹 ITPIKI Webinar</b><br>
+<span style="color: #8b949e;">AI Governance, Ethics & Security</span>
+</p>
+</td>
+<td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px;">
+<h4 style="color: #38BDF8; margin: 0 0 15px 0; font-family: monospace;">🔬 Applied Experience</h4>
+<p style="margin: 0 0 12px 0; font-size: 14px;">
+<b style="color: #e6edf3;">⚙️ Backend & Data</b><br>
+<span style="color: #8b949e;">System Architecture & Database Design</span>
+</p>
+<p style="margin: 0 0 12px 0; font-size: 14px;">
+<b style="color: #e6edf3;">🌐 IT Infrastructure</b><br>
+<span style="color: #8b949e;">Network Topology & Configuration</span>
+</p>
+<p style="margin: 0; font-size: 14px;">
+<b style="color: #e6edf3;">🔄 Project Workflow</b><br>
+<span style="color: #8b949e;">Agile Methodologies & SDLC</span>
+</p>
+</td>
+</tr>
 </table>
 
 ---
