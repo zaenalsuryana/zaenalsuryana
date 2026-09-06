@@ -98,6 +98,26 @@
 
 ---
 
+### 🎓 Continuous Learning & Expertise
+
+<table width="100%" style="border: none;">
+  <tr>
+    <td width="50%" valign="top">
+      <b>🏆 Certifications & Courses</b><br>
+      • <i>Dicoding Indonesia:</i> Artificial Intelligence, Data Science, Machine Learning, Python, & SQL.<br>
+      • <i>ITPIKI:</i> AI Governance, Ethics & Security.<br>
+    </td>
+    <td width="50%" valign="top">
+      <b>🔬 Applied Experience</b><br>
+      • Backend Architecture & Database Design.<br>
+      • Network Topology & Infrastructure Configuration.<br>
+      • Agile & Software Development Lifecycle (SDLC).
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📊 GitHub Analytics
 
 <div align="center">
