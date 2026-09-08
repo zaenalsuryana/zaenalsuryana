@@ -133,6 +133,19 @@
 
 ---
 
+### 📂 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/zaenalsuryana/NAMA_REPO_1">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=zaenalsuryana&repo=NAMA_REPO_1&theme=vue-dark&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/zaenalsuryana/NAMA_REPO_2">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=zaenalsuryana&repo=NAMA_REPO_2&theme=vue-dark&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&hide_border=true" width="48%" />
+  </a>
+</div>
+
+---
+
 ### 📊 GitHub Analytics
 
 <div align="center">
