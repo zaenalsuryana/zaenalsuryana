@@ -133,18 +133,24 @@
 
 ---
 
-### 📂 Featured Projects
-
 <div align="center">
+  <h2>🚀 <b>Featured Projects</b></h2>
+  <p><i>Kumpulan proyek terbaik saya di ranah Backend Development</i></p>
+  
+  <br>
+
   <a href="https://github.com/zaenalsuryana/Task-2026-06-nestjs-be">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=zaenalsuryana&repo=Task-2026-06-nestjs-be&theme=vue-dark&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=zaenalsuryana&repo=Task-2026-06-nestjs-be&theme=vue-dark&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=a3a3a3&hide_border=true&border_radius=15" width="48%" />
   </a>
   <a href="https://github.com/zaenalsuryana/Task-2026-05-typescript-be">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=zaenalsuryana&repo=Task-2026-05-typescript-be&theme=vue-dark&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=zaenalsuryana&repo=Task-2026-05-typescript-be&theme=vue-dark&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=a3a3a3&hide_border=true&border_radius=15" width="48%" />
   </a>
-</div>
 
----
+  <br><br>
+  
+  <!-- Garis pemisah estetik -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
+</div>
 
 ### 📊 GitHub Analytics
 
