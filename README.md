@@ -161,7 +161,7 @@
 
 <div align="center">
   <br>
-  <img src="https://streak-stats.demolab.com/?user=zaenalsuryana&theme=vue-dark&hide_border=true&background=0D1117&stroke=38BDF8" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaenalsuryana&theme=react-dark&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF" width="98%" />
 </div>
 
 ---
