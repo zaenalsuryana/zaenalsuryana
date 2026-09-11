@@ -155,8 +155,8 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaenalsuryana&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaenalsuryana&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=38BDF8" width="48%" />
+  <img src="https://github-readme-stats.anuraghazral.vercel.app/api?username=zaenalsuryana&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" width="48%" />
+  <img src="https://github-readme-stats.anuraghazral.vercel.app/api/top-langs/?username=zaenalsuryana&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=38BDF8" width="48%" />
 </div>
 
 <div align="center">
