@@ -152,17 +152,17 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
 </div>
 
-### 📊 GitHub Analytics
-
+ ### 📊 GitHub Analytics
+ 
 <div align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=zaenalsuryana&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" width="48%" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=zaenalsuryana&show_icons=true&theme=vue dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" width="48%" />
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zaenalsuryana&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=38BDF8" width="48%" />
 </div>
-
 <div align="center">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaenalsuryana&theme=vue-dark&hide_border=true&background=0D1117&stroke=38BDF8" width="98%" />
-</div>
+</div> 
+
 
 <!-- FOOTER COUNTER -->
 <div align="center">
