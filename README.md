@@ -161,7 +161,7 @@
 
 <div align="center">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaenalsuryana&theme=vue-dark&hide_border=true&background=0D1117&stroke=38BDF8" width="98%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zaenalsuryana&title=fff&icon=38bdf8&text=8b949e&no-bg=true&no-frame=true&margin-w=15" width="100%" />
 </div>
 
 ---
