@@ -142,8 +142,8 @@
   <a href="https://github.com/zaenalsuryana/Task-2026-06-nestjs-be">
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=zaenalsuryana&repo=Task-2026-06-nestjs-be&theme=vue-dark&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=a3a3a3&hide_border=true&border_radius=15" width="48%" />
   </a>
-  <a href="https://github.com/zaenalsuryana/Task-2026-05-typescript-be">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=zaenalsuryana&repo=Task-2026-05-typescript-be&theme=vue-dark&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=a3a3a3&hide_border=true&border_radius=15" width="48%" />
+  <a href="https://github.com/zaenalsuryana/Task-2026-07-user-management-be">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=zaenalsuryana&repo=Task-2026-07-user-management-be&theme=vue-dark&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=a3a3a3&hide_border=true&border_radius=15" width="48%" />
   </a>
 
   <br><br>
