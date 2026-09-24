@@ -25,7 +25,8 @@
 
 <br>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
+</div>
 
 ### ⚡ Quick Overview
 
@@ -46,7 +47,8 @@
   </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
+</div>
 
 ### 💻 Tech Stack & Ecosystem
 
