@@ -25,6 +25,8 @@
 
 <br>
 
+<br><br>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
 </div>
 
@@ -46,6 +48,8 @@
     </td>
   </tr>
 </table>
+
+<br><br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
 </div>
