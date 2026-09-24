@@ -154,9 +154,6 @@
 
   <br><br>
   
-  <!-- Garis pemisah estetik -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
-</div>
 
 ### 📊 GitHub Analytics
 
