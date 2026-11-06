@@ -23,11 +23,10 @@
   </a>
 </div>
 
-<br>
-
 <br><br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
 </div>
 
 ### ⚡ Quick Overview
@@ -51,7 +50,8 @@
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
 </div>
 
 ### 💻 Tech Stack & Ecosystem
@@ -154,7 +154,6 @@
 
   <br><br>
   
-
 ### 📊 GitHub Analytics
 
 <div align="center">
@@ -173,7 +172,7 @@
 <div align="center">
   <br>
   <img src="https://komarev.com/ghpvc/?username=zaenalsuryana&label=Profile%20Visitors&color=38BDF8&style=flat-square" alt="Views" />
-  <p style="font-size: 11px; color: #8b949e; margin-top: 10px;">✨ Last synced: 2026-11-05 23:36 WIB | Clean Architecture & Backend Focus</p>
+  <p style="font-size: 11px; color: #8b949e; margin-top: 10px;">✨ Last synced: 2026-11-06 22:12 WIB | Clean Architecture & Backend Focus</p>
 </div>
 
-<!-- COMMIT LOG TIMESTAMP: 1762364188 -->
+<!-- COMMIT LOG TIMESTAMP: 1793977920 -->
