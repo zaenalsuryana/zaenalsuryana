@@ -5,7 +5,7 @@
 
 <!-- KARTU INFORMASI UTAMA -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=%3E+Building+scalable+backend+with+NestJS;%3E+Exploring+Python+%26+Data+Science;%3E+Turning+complex+logic+into+clean+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=%3E+Building+scalable+backend+with+NestJS;%3E+Exploring+Python+%26+Data+Science;%3E+Developing+Jaya+Mandiri+Part+System" alt="Typing SVG" />
 </div>
 
 <br>
@@ -34,14 +34,14 @@
 <table width="100%" style="border: none;">
   <tr>
     <td width="50%" valign="top">
-      <b>🛠️ Core Stack:</b> NestJS, TypeScript, PostgreSQL, Prisma, Python<br>
+      <b>🛠️ Core Stack:</b> NestJS, Laravel, TypeScript, PostgreSQL, Python<br>
       <b>🎯 Focus Area:</b> Backend Architecture & Data Science<br>
       <b>🌱 Currently Learning:</b> Machine Learning & AI Governance<br>
       <b>📍 Location:</b> Bandung, Indonesia
     </td>
     <td width="50%" valign="top">
       <b>💡 Philosophy:</b> Write clean, maintainable, and data-driven code.<br>
-      <b>🚀 Current Project:</b> Developing high-performance Insite Backend Services.<br>
+      <b>🚀 Current Project:</b> Developing Jaya Mandiri Part & Insite Services.<br>
       <b>💬 Ask me about:</b> SDLC, Agile, and Database Design.<br>
       <b>☕ Fun fact:</b> Big fan of fantasy novel lore and cozy coffee breaks!
     </td>
@@ -73,6 +73,8 @@
       <h4 style="color: #38BDF8; margin: 0 0 15px 0; font-family: monospace;">⚙️ Frameworks & Backend</h4>
       <div style="display: flex; flex-wrap: wrap; gap: 8px;">
         <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Filament-F29D38?style=for-the-badge&logo=filament&logoColor=white" />
         <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
         <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
       </div>
@@ -96,6 +98,7 @@
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
         <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
         <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+        <img src="https://img.shields.io/badge/Laragon-19B6EE?style=for-the-badge&logo=laragon&logoColor=white" />
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
       </div>
     </td>
@@ -123,7 +126,7 @@
 <h4 style="color: #38BDF8; margin: 0 0 15px 0; font-family: monospace;">🔬 Applied Experience</h4>
 <p style="margin: 0 0 12px 0; font-size: 14px;">
 <b style="color: #e6edf3;">⚙️ Backend & Data</b><br>
-<span style="color: #8b949e;">System Architecture & Database Design</span>
+<span style="color: #8b949e;">System Architecture, Filament Admin & Database Design</span>
 </p>
 <p style="margin: 0 0 12px 0; font-size: 14px;">
 <b style="color: #e6edf3;">🌐 IT Infrastructure</b><br>
@@ -172,7 +175,7 @@
 <div align="center">
   <br>
   <img src="https://komarev.com/ghpvc/?username=zaenalsuryana&label=Profile%20Visitors&color=38BDF8&style=flat-square" alt="Views" />
-  <p style="font-size: 11px; color: #8b949e; margin-top: 10px;">✨ Last synced: 2026-11-09 22:20 WIB | Clean Architecture & Backend Focus</p>
+  <p style="font-size: 11px; color: #8b949e; margin-top: 10px;">✨ Last synced: 2026-11-10 11:44 WIB | Clean Architecture & Backend Focus</p>
 </div>
 
-<!-- COMMIT LOG TIMESTAMP: 1794237600 -->
+<!-- COMMIT LOG TIMESTAMP: 1794367440 -->
